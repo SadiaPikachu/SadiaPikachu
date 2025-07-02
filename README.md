@@ -12,7 +12,7 @@
 ##  About Me
 
 I'm a final-year **Biomedical Engineering** student with a strong interest in health technology, AI, and smart Iot systems.  
-I love experimenting with tools like *Python, MATLAB, Proteus, and **Arduino, and I’m especially excited about how machine learning can transform medical diagnosis and home-based healthcare.
+I love experimenting with tools like Python, MATLAB, Proteus, and Arduino, and I’m especially excited about how machine learning can transform medical diagnosis and home-based healthcare.
 
 ---
 
