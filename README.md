@@ -1,7 +1,3 @@
-<p align="center">
-  src="https://github.com/SadiaPikachu/SadiaPikachu/blob/6ad7b62671e36a8f43b3ebe02c12b6cfb27f631c/space.mp4" alt="Hi"
-width="100%" />
-</p>
 
 <h1 align="center">Hi, I'm Sadia Tabassum </h1>
 
