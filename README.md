@@ -25,15 +25,6 @@ I love experimenting with tools like Python, MATLAB, Proteus, and Arduino, and I
 </p>
 
 
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadiaPikachu&show_icons=true&theme=radical" width="48%"/>
-</p>
-
----
-
 ##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sadia-tabassum-310916369)  
