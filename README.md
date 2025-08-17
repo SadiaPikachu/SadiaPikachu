@@ -10,16 +10,19 @@
 </p>
 
 ---
+<p align="center">
 
-## About Me
+   ## About Me
+</p>
 
 I’m a **Biomedical Engineering Graduate** with a deep interest in health technology, AI, and smart IoT systems.  
 I love experimenting with tools like **Python, MATLAB, Proteus, Arduino**, and I'm especially passionate about how **Machine Learning** can transform medical diagnosis and home-based healthcare.
 
 ---
-
+<p align="center">
+   
 ## Tech Stack
-
+</p>
 <p align="center">
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48"/>
@@ -31,8 +34,10 @@ I love experimenting with tools like **Python, MATLAB, Proteus, Arduino**, and I
 </p>
 
 ---
-
+<p align="center">
+   
 ## Connect with Me
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sadia-tabassum-310916369)  
 [![Gmail](https://img.shields.io/badge/Email-sadiakrypton2001@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sadiakrypton2001@gmail.com)
