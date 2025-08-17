@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #F74780;">Hi, I'm Sadia Tabassum</h1>
+<h1 align="center">🌟 Hi, I'm Sadia Tabassum 🌟</h1>
 
 <p align="center">
    Biomedical Engineering Graduate | Tech Enthusiast <br>
@@ -41,4 +41,4 @@ I love experimenting with tools like **Python, MATLAB, Proteus, Arduino**, and I
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F74780&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" />
-</p> add some color in text
+</p> 
