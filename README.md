@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/r7ZGb2bgNczDd3nm6/giphy.gif" alt="Background GIF"/>
+  <img src="https://github.com/SadiaPikachu/SadiaPikachu/blob/5e29915dc530a7c055e57ebbcb7b95b308085208/PIKA%20PIKA.gif?raw=true" alt="Background GIF"/>
 </p>
+
 
 ---
 
