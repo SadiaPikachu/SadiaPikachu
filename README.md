@@ -35,7 +35,8 @@ I love experimenting with tools like **Python, MATLAB, Proteus, Arduino**, and I
 
 ---
 <p align="center">
-   
+![Stats](https://github-readme-stats.vercel.app/api?username=SadiaPikachu&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SadiaPikachu&layout=compact&theme=tokyonight)
 ## Connect with Me
 </p>
 
