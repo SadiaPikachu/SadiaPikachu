@@ -38,15 +38,19 @@ I love experimenting with tools like **Python, MATLAB, Proteus, Arduino**, and I
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SadiaPikachu&layout=compact&theme=tokyonight)
 
-<p align="center">
-   ## Connect with Me
-</p>
+<h2 align="center">🌐 Connect with Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sadia-tabassum-310916369)  
-[![Gmail](https://img.shields.io/badge/Email-sadiakrypton2001@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sadiakrypton2001@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sadia-tabassum-310916369">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sadiakrypton2001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sadiakrypton2001@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F74780&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" />
-</p> 
+</p>
